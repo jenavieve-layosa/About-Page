@@ -1,7 +1,8 @@
 title {
     text-align: center;
     line-height: 70px;
-    font-size: 60px
+    font-size: 60px;
+    color: blue
 
 }
 h1 {
@@ -29,6 +30,12 @@ h4 {
 }
 
 h5 {
+    text-align: center;
+    line-height: 22px;
+    font-size: 18px;
+    font-weight: 400;
+}
+textblue {
     text-align: center;
     line-height: 22px;
     font-size: 18px;
